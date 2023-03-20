@@ -1,0 +1,108 @@
+[
+    {
+        "showPastEvents": true,
+        "darkMode": false,
+        "showOnHomepage": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+        ],
+        "notifications": [
+            {
+                "SeriesNum": 0,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 1,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 2,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 3,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 4,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 5,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 6,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 7,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 8,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 9,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 10,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 11,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 12,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            },
+            {
+                "SeriesNum": 13,
+                "Practice": true,
+                "Qualifying": true,
+                "Race": true
+            }
+        ]
+    }
+]

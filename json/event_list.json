@@ -1,0 +1,2469 @@
+
+[
+        {
+            "SeriesNum": 0,
+            "Events": [
+                {
+                    "EventName": "(Testing) Spain",
+                    "EventStart": "2022-02-23 00:00:00",
+                    "EventEnd": "2022-02-25 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "(Testing) Bahrain",
+                    "EventStart": "2022-03-10 00:00:00",
+                    "EventEnd": "2022-03-12 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Bahrain GP Weekend",
+                    "EventStart": "2022-03-18 00:00:00",
+                    "EventEnd": "2022-03-20 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Saudi Arabia GP Weekend",
+                    "EventStart": "2022-03-25 00:00:00",
+                    "EventEnd": "2022-03-27 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Australia GP Weekend",
+                    "EventStart": "2022-04-08 00:00:00",
+                    "EventEnd": "2022-04-10 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Italy (Imola) GP Weekend",
+                    "EventStart": "2022-04-22 00:00:00",
+                    "EventEnd": "2022-04-24 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "US (Miami) GP Weekend",
+                    "EventStart": "2022-05-06 00:00:00",
+                    "EventEnd": "2022-05-08 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Spain GP Weekend",
+                    "EventStart": "2022-05-20 00:00:00",
+                    "EventEnd": "2022-05-22 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Monaco GP Weekend",
+                    "EventStart": "2022-05-27 00:00:00",
+                    "EventEnd": "2022-05-29 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Azerbaijan GP Weekend",
+                    "EventStart": "2022-06-10 00:00:00",
+                    "EventEnd": "2022-06-12 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Canada GP Weekend",
+                    "EventStart": "2022-06-17 00:00:00",
+                    "EventEnd": "2022-06-19 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Great Britain GP Weekend",
+                    "EventStart": "2022-07-01 00:00:00",
+                    "EventEnd": "2022-07-03 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Austria GP Weekend",
+                    "EventStart": "2022-07-08 00:00:00",
+                    "EventEnd": "2022-07-10 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "France GP Weekend",
+                    "EventStart": "2022-07-22 00:00:00",
+                    "EventEnd": "2022-07-24 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Hungary GP Weekend",
+                    "EventStart": "2022-07-29 00:00:00",
+                    "EventEnd": "2022-07-31 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Belgium GP Weekend",
+                    "EventStart": "2022-08-26 00:00:00",
+                    "EventEnd": "2022-08-28 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-08-26 14:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-08-26 17:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-08-27 13:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-08-27 16:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-08-28 15:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Netherlands GP Weekend",
+                    "EventStart": "2022-09-02 00:00:00",
+                    "EventEnd": "2022-09-04 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-09-02 10:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-09-02 14:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-09-03 10:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-09-03 13:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-09-04 13:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Italy (Monza) GP Weekend",
+                    "EventStart": "2022-09-09 00:00:00",
+                    "EventEnd": "2022-09-11 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-09-12 12:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-09-13 15:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-09-13 11:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-09-12 14:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-09-12 13:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Singapore GP Weekend",
+                    "EventStart": "2022-09-30 00:00:00",
+                    "EventEnd": "2022-10-02 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-09-30 10:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-09-30 13:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-10-01 10:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-10-01 13:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-10-02 12:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Japan GP Weekend",
+                    "EventStart": "2022-10-07 00:00:00",
+                    "EventEnd": "2022-10-09 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "United States (COTA) GP Weekend",
+                    "EventStart": "2022-10-21 00:00:00",
+                    "EventEnd": "2022-10-23 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Mexico GP Weekend",
+                    "EventStart": "2022-10-28 00:00:00",
+                    "EventEnd": "2022-10-30 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Brazil GP Weekend",
+                    "EventStart": "2022-11-11 00:00:00",
+                    "EventEnd": "2022-11-13 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Abu Dhabi GP Weekend",
+                    "EventStart": "2022-11-18 00:00:00",
+                    "EventEnd": "2022-11-20 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "f1_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-13 11:11:11",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart":"2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-04-12 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 1,
+            "Events": [
+                {
+                    "EventName": "Official Prologue - Sebring (USA)",
+                    "EventStart": "2022-03-12 00:00:00",
+                    "EventEnd": "2022-03-13 00:00:00",
+                    "EventColorCode": "0xFF8BC63E",
+                    "EventLogo": "wec_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Prologue - Testing",
+                            "SessionStart": "2022-03-12 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "1000 Miles of Sebring (USA)",
+                    "EventStart": "2022-03-16 00:00:00",
+                    "EventEnd": "2022-03-18 00:00:00",
+                    "EventColorCode": "0xFF8BC63E",
+                    "EventLogo": "wec_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-03-16 15:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-03-16 08:35:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart":"2022-03-17 16:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying 1",
+                            "SessionStart":"2022-03-17 11:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying 2",
+                            "SessionStart":"2022-03-17 11:20:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-03-18 16:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "TOTALEnergies 6 Hours of Spa-Francorchamps (BEL)",
+                    "EventStart": "2022-05-05 00:00:00",
+                    "EventEnd": "2022-05-07 00:00:00",
+                    "EventColorCode": "0xFF8BC63E",
+                    "EventLogo": "wec_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-05-05 13:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-05-06 07:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-05-06 12:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying 1",
+                            "SessionStart": "2022-05-06 16:20:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying 2",
+                            "SessionStart": "2022-05-06 16:40:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-05-07 11:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "24 Hours of Le Mans (FRA)",
+                    "EventStart": "2022-06-08 00:00:00",
+                    "EventEnd": "2022-06-12 00:00:00",
+                    "EventColorCode": "0xFF8BC63E",
+                    "EventLogo": "wec_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-07-08 12:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-07-08 20:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-07-09 13:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Hyperpole",
+                            "SessionStart": "2022-07-09 18:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Practice 4",
+                            "SessionStart": "2022-07-09 20:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race Start Start",
+                            "SessionStart": "2022-07-11 14:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "6 Hours of Monza (ITA)",
+                    "EventStart": "2022-07-07 00:00:00",
+                    "EventEnd": "2022-07-10 00:00:00",
+                    "EventColorCode": "0xFF8BC63E",
+                    "EventLogo": "wec_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-07-08 13:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-07-09 07:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-07-09 11:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying 1",
+                            "SessionStart": "2022-07-09 15:30:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying 2",
+                            "SessionStart": "2022-07-09 15:50:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-07-10 10:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "6 Hours of Fuji (JPN)",
+                    "EventStart": "2022-09-08 00:00:00",
+                    "EventEnd": "2022-09-11 00:00:00",
+                    "EventColorCode": "0xFF8BC63E",
+                    "EventLogo": "wec_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-09-09 02:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-09-09 06:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-09-10 01:20:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying 1",
+                            "SessionStart": "2022-09-10 05:40:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying 2",
+                            "SessionStart": "2022-09-10 06:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-09-11 02:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "8 Hours of Bahrain (BAH)",
+                    "EventStart": "2022-11-10 00:00:00",
+                    "EventEnd": "2022-11-12 00:00:00",
+                    "EventColorCode": "0xFF8BC63E",
+                    "EventLogo": "wec_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice 1",
+                            "SessionStart": "2022-11-10 08:15:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 2",
+                            "SessionStart": "2022-11-10 06:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Practice 3",
+                            "SessionStart": "2022-11-11 07:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying 1",
+                            "SessionStart": "2022-11-11 12:50:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying 2",
+                            "SessionStart": "2022-11-11 13:10:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Race Start",
+                            "SessionStart": "2022-11-12 10:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 2,
+            "Events": [
+                {
+                    "EventName": "The Canadian Grand Prix",
+                    "EventStart": "2022-02-27 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFF1801",
+                    "EventLogo": "imsa_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 3,
+            "Events": [
+                {
+                    "EventName": "Streets of St. Petersburg",
+                    "EventStart": "2022-02-27 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Texas Motor Speedway",
+                    "EventStart": "2022-03-20 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Streets of Long Beach",
+                    "EventStart": "2022-04-10 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Barber Motorsports Park",
+                    "EventStart": "2022-05-01 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Indianapolis Motor Speedway (Road Course)",
+                    "EventStart": "2022-05-14 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "The 106th Indianapolis 500",
+                    "EventStart": "2022-05-29 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Race Startway at Belle Isle Park",
+                    "EventStart": "2022-06-05 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Road America",
+                    "EventStart": "2022-06-12 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Mid-Ohio Sports Car Course",
+                    "EventStart": "2022-07-03 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Streets of Toronto",
+                    "EventStart": "2022-07-17 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Iowa Speeday Race Start 1",
+                    "EventStart": "2022-07-23 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Iowa Speeday Race Start 2",
+                    "EventStart": "2022-07-24 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Indianapolis Motor Speedway (Road Course)",
+                    "EventStart": "2022-07-30 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Streets of Nashville",
+                    "EventStart": "2022-08-07 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "World Wide Technology Race Startway",
+                    "EventStart": "2022-08-20 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Portland International Race Startway",
+                    "EventStart": "2022-09-04 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "WeatherTech Race Startway Laguna Seca",
+                    "EventStart": "2022-09-11 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF0086BF",
+                    "EventLogo": "indycar_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 4,
+            "Events": [
+                {
+                    "EventName": "Rallye Monte-Carlo",
+                    "EventStart": "2022-01-20 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Rally Sweden",
+                    "EventStart": "2022-02-24 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Croatia Rally",
+                    "EventStart": "2022-04-21 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Vodafone Rally de Portugal",
+                    "EventStart": "2022-05-19 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Rally Italia Sardegna",
+                    "EventStart": "2022-06-05 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Safari Rally Kenya",
+                    "EventStart": "2022-06-23 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Rally Estonia",
+                    "EventStart": "2022-07-14 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Secto Rally Finland",
+                    "EventStart": "2022-08-04 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Ypres Rally Belgium",
+                    "EventStart": "2022-08-18 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "EKO Acropolis Rally Greece",
+                    "EventStart": "2022-09-08 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Repco Rally New Zealand",
+                    "EventStart": "2022-09-29 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "RallyRACC - Catalunya Rally de Espana",
+                    "EventStart": "2022-10-20 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "FORUM8 Rally Japan",
+                    "EventStart": "2022-11-10 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFC4C02",
+                    "EventLogo": "wrc_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 5,
+            "Events": [
+                {
+                    "EventName": "Sydney",
+                    "EventStart": "2022-03-05 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFF000000",
+                    "EventLogo": "supercars_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 6,
+            "Events": [
+                {
+                    "EventName": "2023 Season",
+                    "EventStart": "2023-01-01 00:00:00",
+                    "EventEnd": "2023-01-01 00:00:00",
+                    "EventColorCode": "0xFF1487ED",
+                    "EventLogo": "formula_e_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Season 8",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 7,
+            "Events": [
+                {
+                    "EventName": "Super Formula",
+                    "EventStart": "2022-02-27 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFff00c2",
+                    "EventLogo": "super_formula_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 8,
+            "Events": [
+                {
+                    "EventName": "Miami, USA",
+                    "EventStart": "2022-05-06 00:00:00",
+                    "EventEnd": "2022-05-08 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Barcelona, Spain",
+                    "EventStart": "2022-05-20 00:00:00",
+                    "EventEnd": "2022-05-22 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Silverstone, UK",
+                    "EventStart": "2022-07-01 00:00:00",
+                    "EventEnd": "2022-07-03 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Le Castellet, France",
+                    "EventStart": "2022-07-22 00:00:00",
+                    "EventEnd": "2022-07-24 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Budapest, Hungary",
+                    "EventStart": "2022-07-29 00:00:00",
+                    "EventEnd": "2022-07-31 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Suzuka, Japan",
+                    "EventStart": "2022-10-07 00:00:00",
+                    "EventEnd": "2022-10-09 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Austin, USA",
+                    "EventStart": "2022-10-21 00:00:00",
+                    "EventEnd": "2022-10-23 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Mexico City, Mexico",
+                    "EventStart": "2022-10-28 00:00:00",
+                    "EventEnd": "2022-10-30 00:00:00",
+                    "EventColorCode": "0xFF440099",
+                    "EventLogo": "w_series_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 9,
+            "Events": [
+                {
+                    "EventName": "Finland",
+                    "EventStart": "2012-02-27 00:00:00",
+                    "EventEnd": "2022-02-27 00:00:00",
+                    "EventColorCode": "0xFFFFFF00",
+                    "EventLogo": "gt_europe_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 10,
+            "Events": [
+                {
+                    "EventName": "Rounds 1 and 2: Autodrom Most, Czech Republic",
+                    "EventStart": "2022-04-09 00:00:00",
+                    "EventEnd": "2022-04-10 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "wtcr_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "SessionName",
+                            "SessionStart": "2022-01-01 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 11,
+            "Events": [
+                {
+                    "EventName": "Silverstone Grand Prix",
+                    "EventStart": "2022-03-12 00:00:00",
+                    "EventEnd": "2022-03-13 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "praga_cup_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Qualifying (Race 1)",
+                            "SessionStart": "2022-03-12 08:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 1 Start",
+                            "SessionStart": "2022-03-12 10:50:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying (Race 2)",
+                            "SessionStart": "2022-03-13 09:10:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 2 Start",
+                            "SessionStart": "2022-03-13 12:15:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Oulton Park (Full)",
+                    "EventStart": "2022-04-02 00:00:00",
+                    "EventEnd": "2022-04-02 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "praga_cup_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-04-02 10:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race",
+                            "SessionStart": "2022-04-02 15:35:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Snetterton (300)",
+                    "EventStart": "2022-05-14 00:00:00",
+                    "EventEnd": "2022-05-15 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "praga_cup_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Qualifying (Race 1)",
+                            "SessionStart": "2022-05-14 08:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 1 Start",
+                            "SessionStart": "2022-05-14 11:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying (Race 2)",
+                            "SessionStart": "2022-05-15 09:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 2 Start",
+                            "SessionStart": "2022-05-15 12:45:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Silverstone National",
+                    "EventStart": "2022-06-04 00:00:00",
+                    "EventEnd": "2022-06-05 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "praga_cup_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Qualifying (Race 1)",
+                            "SessionStart": "2022-06-04 09:45:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 1 Start",
+                            "SessionStart": "2022-06-04 13:25:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying (Race 2)",
+                            "SessionStart": "2022-06-05 09:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 2 Start",
+                            "SessionStart": "2022-06-05 12:25:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Donington National",
+                    "EventStart": "2022-08-20 00:00:00",
+                    "EventEnd": "2022-08-21 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "praga_cup_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Qualifying (Race 1)",
+                            "SessionStart": "2022-08-20 08:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 1 Start",
+                            "SessionStart": "2022-08-20 11:25:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Qualifying (Race 2)",
+                            "SessionStart": "2022-08-21 08:40:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Race 2 Start",
+                            "SessionStart": "2022-08-21 13:15:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Donington Grand Prix",
+                    "EventStart": "2022-10-22 00:00:00",
+                    "EventEnd": "2022-10-23 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "praga_cup_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "NOT POSTED",
+                            "SessionStart": "2022-10-22 00:00:00",
+                            "MainEvent": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 12,
+            "Events": [
+                {
+                    "EventName": "Sakhir, Bahrain",
+                    "EventStart": "2022-03-18 00:00:00",
+                    "EventEnd": "2022-03-20 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-03-18 09:35:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-03-18 16:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-03-18 16:40:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-03-20 10:40:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Jeddah, Saudi Arabia",
+                    "EventStart": "2022-03-25 00:00:00",
+                    "EventEnd": "2022-03-27 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-03-25 11:25:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-03-25 15:20:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-03-26 12:30:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-03-27 13:35:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Imola, Italy",
+                    "EventStart": "2022-04-22 00:00:00",
+                    "EventEnd": "2022-04-24 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-04-22 09:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-04-22 13:55:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-04-23 15:55:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-04-24 08:20:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Barcelona, Spain",
+                    "EventStart": "2022-05-20 00:00:00",
+                    "EventEnd": "2022-05-22 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-05-20 09:35:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-05-20 16:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-05-21 15:40:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-05-22 09:35:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Monaco, Monte Carlo",
+                    "EventStart": "2022-05-26 00:00:00",
+                    "EventEnd": "2022-05-29 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-05-26 15:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-05-27 09:40:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-05-28 15:40:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-05-29 07:50:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Baku, Azerbaijan",
+                    "EventStart": "2022-06-10 00:00:00",
+                    "EventEnd": "2022-06-12 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-06-10 08:35:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-06-10 12:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-06-11 09:30:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-06-12 07:05:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Silverstone, UK",
+                    "EventStart": "2022-07-01 00:00:00",
+                    "EventEnd": "2022-07-03 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-07-01 09:45:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-07-01 16:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-07-02 16:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-07-03 09:05:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Spielberg, Austria",
+                    "EventStart": "2022-07-08 00:00:00",
+                    "EventEnd": "2022-07-10 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-07-08 09:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-07-08 13:55:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-07-09 15:55:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-07-10 08:05:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Le Castellet, France",
+                    "EventStart": "2022-07-22 00:00:00",
+                    "EventEnd": "2022-07-24 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-07-22 09:35:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-07-22 16:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-07-23 16:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-07-24 07:35:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Budapest, Hungary",
+                    "EventStart": "2022-07-29 00:00:00",
+                    "EventEnd": "2022-07-31 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-07-29 08:40:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-07-29 16:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-07-30 16:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-07-31 09:35:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Spa-Francorchamps, Belgium",
+                    "EventStart": "2022-08-26 00:00:00",
+                    "EventEnd": "2022-08-28 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-08-26 09:35:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-08-26 16:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-08-27 16:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-08-28 08:20:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Zandvoort, Netherlands",
+                    "EventStart": "2022-09-02 00:00:00",
+                    "EventEnd": "2022-09-04 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-09-02 08:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-09-02 13:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-09-03 15:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-09-04 08:20:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Monza, Italy",
+                    "EventStart": "2022-09-09 00:00:00",
+                    "EventEnd": "2022-09-11 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice (TBC)",
+                            "SessionStart": "2022-09-09 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying (TBC)",
+                            "SessionStart": "2022-09-09 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race (TBC)",
+                            "SessionStart": "2022-09-10 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race (TBC)",
+                            "SessionStart": "2022-09-11 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Yas Island, Abu Dhabi",
+                    "EventStart": "2022-11-18 00:00:00",
+                    "EventEnd": "2022-11-20 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f2_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice (TBC)",
+                            "SessionStart": "2022-11-18 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying (TBC)",
+                            "SessionStart": "2022-11-18 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race (TBC)",
+                            "SessionStart": "2022-11-19 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race (TBC)",
+                            "SessionStart": "2022-11-20 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SeriesNum": 13,
+            "Events": [
+                {
+                    "EventName": "Sakhir, Bahrain",
+                    "EventStart": "2022-03-18 00:00:00",
+                    "EventEnd": "2022-03-20 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-03-18 08:25:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-03-18 13:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-03-18 09:45:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-03-20 08:45:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Imola, Italy",
+                    "EventStart": "2022-04-22 00:00:00",
+                    "EventEnd": "2022-04-24 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-04-22 07:55:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-04-22 13:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-04-23 08:35:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-04-24 06:50:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Barcelona, Spain",
+                    "EventStart": "2022-05-20 00:00:00",
+                    "EventEnd": "2022-05-22 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-05-20 07:05:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-05-20 13:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-05-21 09:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-05-22 08:05:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Silverstone, UK",
+                    "EventStart": "2022-07-01 00:00:00",
+                    "EventEnd": "2022-07-03 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-07-01 08:35:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-07-01 14:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-07-02 08:55:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-07-03 07:35:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Spielberg, Austria",
+                    "EventStart": "2022-07-08 00:00:00",
+                    "EventEnd": "2022-07-10 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-07-08 07:55:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-07-08 13:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-07-09 08:35:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-07-10 06:35:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Budapest, Hungary",
+                    "EventStart": "2022-07-29 00:00:00",
+                    "EventEnd": "2022-07-31 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-07-29 07:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-07-29 13:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-07-30 09:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-07-31 08:05:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Spa-Francorchamps, Belgium",
+                    "EventStart": "2022-08-26 00:00:00",
+                    "EventEnd": "2022-08-28 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-08-26 08:25:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-08-26 13:30:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-08-27 08:35:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-08-28 06:50:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Zandvoort, Netherlands",
+                    "EventStart": "2022-09-02 00:00:00",
+                    "EventEnd": "2022-09-04 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice",
+                            "SessionStart": "2022-09-02 06:55:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying",
+                            "SessionStart": "2022-09-02 12:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race",
+                            "SessionStart": "2022-09-03 08:25:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race",
+                            "SessionStart": "2022-09-04 06:45:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                },
+                {
+                    "EventName": "Monza, Italy",
+                    "EventStart": "2022-09-09 00:00:00",
+                    "EventEnd": "2022-09-11 00:00:00",
+                    "EventColorCode": "0x5F000000",
+                    "EventLogo": "f3_logo.png",
+                    "Sessions": [
+                        {
+                            "SessionName": "Practice (TBC)",
+                            "SessionStart": "2022-09-09 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Qualifying (TBC)",
+                            "SessionStart": "2022-09-09 00:00:00",
+                            "MainEvent": "false"
+                        },
+                        {
+                            "SessionName": "Sprint Race (TBC)",
+                            "SessionStart": "2022-09-10 00:00:00",
+                            "MainEvent": "true"
+                        },
+                        {
+                            "SessionName": "Feature Race (TBC)",
+                            "SessionStart": "2022-09-11 00:00:00",
+                            "MainEvent": "true"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
